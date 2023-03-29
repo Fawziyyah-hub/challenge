@@ -1,0 +1,45 @@
+body{
+    background:  hsl(228, 13%, 92%);
+    padding: 30px;
+    height: auto;
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 81%;
+    margin-top: 30px;
+    padding: 14px;
+    border-radius: 16%;
+}
+
+.container{
+    box-sizing: border-box;
+    background-color: rgb(192, 227, 238);
+    box-shadow: 10px 5px 10px 5px grey;
+    height: 89vh;
+    margin: 30px;
+    padding: 30px;
+}
+
+#box{
+    background-color: white ;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 25%;
+    height: 69vh;
+    border-radius: 19px;
+}
+    
+    h3{
+    text-align: center;
+    font-weight: 600;
+
+}
+
+p{
+    text-align: center;
+    margin-bottom: 40px;
+}
